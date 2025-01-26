@@ -48,4 +48,10 @@ This project demonstrates the use of MLOps tools such as MLflow for experiment t
   - `max_depth` as 5, 10, None
  
 - Metrics used for evaluation are:
-  - Accuracy, Precision, Recall, F1_Score	
+  - Accuracy, Precision, Recall, F1_Score
+
+### 2. Data Versioning
+
+#### Prerequisities
+- Configured **Google Drive** as the remote storage with this [link](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive) as reference.
+- Configure **git** as well.
