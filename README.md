@@ -63,6 +63,7 @@ This project demonstrates the use of MLOps tools such as MLflow for experiment t
 		! cat /tmp/iris.csv >> dataset/iris.csv
 
 #### Restore to previous version
+- Restoring to a version behind the HEAD.
 
   		! git checkout HEAD^1 dataset/iris.csv.dvc
 
