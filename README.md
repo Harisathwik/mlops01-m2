@@ -44,5 +44,8 @@ This project demonstrates the use of MLOps tools such as MLflow for experiment t
  
 #### Hyperparameter Configs
 - Parameters used as:
-  - `n_estimators' as 50, 100, 150
+  - `n_estimators` as 50, 100, 150
   - `max_depth` as 5, 10, None
+ 
+- Metrics used for evaluation are:
+  - Accuracy, Precision, Recall, F1_Score	
