@@ -1,4 +1,4 @@
-# MLOps
+## MLOps
 **Group 1 Assignment 1**<br>
 
 ## M2: Process and Tooling
@@ -17,9 +17,15 @@ Gain hands-on experience with popular MLOps tools and understand the processes t
 1.	MLflow experiment logs with different runs and their results.
 2.	A DVC repository showing different versions of the dataset.
 
-## MLOps Assignment: Experiment Tracking and Data Versioning
+## Experiment Tracking and Data Versioning:
 
 This project demonstrates the use of MLOps tools such as MLflow for experiment tracking and DVC (Data Version Control) for dataset versioning. Below are the details and steps for each task.
+
+---
+
+## Project Structure
+
+- model_tracking.py : contains the script for training the model on the iris dataset
 
 ---
 
@@ -34,3 +40,9 @@ This project demonstrates the use of MLOps tools such as MLflow for experiment t
   - `scikit-learn`
   - `matplotlib`
   - `seaborn`
+  - `dvc`
+ 
+#### Hyperparameter Configs
+- Parameters used as:
+  - `n_estimators' as 50, 100, 150
+  - `max_depth` as 5, 10, None
