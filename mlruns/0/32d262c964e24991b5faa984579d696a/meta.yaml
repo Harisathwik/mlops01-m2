@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/32d262c964e24991b5faa984579d696a/artifacts
+end_time: 1737907617987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32d262c964e24991b5faa984579d696a
+run_name: rambunctious-hog-830
+run_uuid: 32d262c964e24991b5faa984579d696a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737907613786
+status: 3
+tags: []
+user_id: codespace
