@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/23c0022befa64a30873bc89caac22c9c/artifacts
+end_time: 1737647349946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23c0022befa64a30873bc89caac22c9c
+run_name: enthused-fawn-841
+run_uuid: 23c0022befa64a30873bc89caac22c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737647346485
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/abced2f70b5e4e1886ef9dc80c380d5c/artifacts
+end_time: 1737872784581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abced2f70b5e4e1886ef9dc80c380d5c
+run_name: bustling-jay-823
+run_uuid: abced2f70b5e4e1886ef9dc80c380d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737872780677
+status: 3
+tags: []
+user_id: codespace

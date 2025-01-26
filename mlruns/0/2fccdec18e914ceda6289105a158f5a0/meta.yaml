@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/2fccdec18e914ceda6289105a158f5a0/artifacts
+end_time: 1737648857219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fccdec18e914ceda6289105a158f5a0
+run_name: salty-hare-125
+run_uuid: 2fccdec18e914ceda6289105a158f5a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737648853245
+status: 3
+tags: []
+user_id: codespace

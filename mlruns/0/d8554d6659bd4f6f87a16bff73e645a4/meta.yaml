@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/d8554d6659bd4f6f87a16bff73e645a4/artifacts
+end_time: 1737648860735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8554d6659bd4f6f87a16bff73e645a4
+run_name: colorful-deer-371
+run_uuid: d8554d6659bd4f6f87a16bff73e645a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737648857360
+status: 3
+tags: []
+user_id: codespace

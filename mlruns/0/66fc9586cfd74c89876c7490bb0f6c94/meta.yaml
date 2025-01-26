@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/66fc9586cfd74c89876c7490bb0f6c94/artifacts
+end_time: 1737647424148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66fc9586cfd74c89876c7490bb0f6c94
+run_name: smiling-cat-147
+run_uuid: 66fc9586cfd74c89876c7490bb0f6c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737647420077
+status: 3
+tags: []
+user_id: codespace

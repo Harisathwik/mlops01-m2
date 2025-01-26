@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/bac0396cdbd8496881b14acb5c42d271/artifacts
+end_time: 1737870053135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bac0396cdbd8496881b14acb5c42d271
+run_name: popular-shrike-119
+run_uuid: bac0396cdbd8496881b14acb5c42d271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737870049906
+status: 3
+tags: []
+user_id: codespace

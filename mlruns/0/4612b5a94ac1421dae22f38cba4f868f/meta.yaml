@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/4612b5a94ac1421dae22f38cba4f868f/artifacts
+end_time: 1737870046540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4612b5a94ac1421dae22f38cba4f868f
+run_name: polite-ox-922
+run_uuid: 4612b5a94ac1421dae22f38cba4f868f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737870041469
+status: 3
+tags: []
+user_id: codespace

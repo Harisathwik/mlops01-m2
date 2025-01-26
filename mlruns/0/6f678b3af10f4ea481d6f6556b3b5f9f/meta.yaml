@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/6f678b3af10f4ea481d6f6556b3b5f9f/artifacts
+end_time: 1737724966122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f678b3af10f4ea481d6f6556b3b5f9f
+run_name: mysterious-roo-289
+run_uuid: 6f678b3af10f4ea481d6f6556b3b5f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737724963081
+status: 3
+tags: []
+user_id: codespace

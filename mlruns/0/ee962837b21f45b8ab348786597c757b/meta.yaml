@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/ee962837b21f45b8ab348786597c757b/artifacts
+end_time: 1737647346483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee962837b21f45b8ab348786597c757b
+run_name: brawny-fly-166
+run_uuid: ee962837b21f45b8ab348786597c757b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737647342072
+status: 3
+tags: []
+user_id: codespace

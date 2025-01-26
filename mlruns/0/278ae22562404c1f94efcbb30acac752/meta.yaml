@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/278ae22562404c1f94efcbb30acac752/artifacts
+end_time: 1737648536367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 278ae22562404c1f94efcbb30acac752
+run_name: orderly-lamb-705
+run_uuid: 278ae22562404c1f94efcbb30acac752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737648532378
+status: 3
+tags: []
+user_id: codespace

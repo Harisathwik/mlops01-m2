@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/cdd3beea67e040ec832d8a5d97f4a56b/artifacts
+end_time: 1737724962892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdd3beea67e040ec832d8a5d97f4a56b
+run_name: gentle-goose-636
+run_uuid: cdd3beea67e040ec832d8a5d97f4a56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737724959604
+status: 3
+tags: []
+user_id: codespace

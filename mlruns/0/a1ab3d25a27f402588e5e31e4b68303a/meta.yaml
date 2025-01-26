@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/a1ab3d25a27f402588e5e31e4b68303a/artifacts
+end_time: 1737724959487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1ab3d25a27f402588e5e31e4b68303a
+run_name: classy-carp-387
+run_uuid: a1ab3d25a27f402588e5e31e4b68303a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737724954900
+status: 3
+tags: []
+user_id: codespace

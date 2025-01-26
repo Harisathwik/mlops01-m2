@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/41a23f5e4c4d452089bbcea89ba4657b/artifacts
+end_time: 1737648046744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41a23f5e4c4d452089bbcea89ba4657b
+run_name: bald-croc-968
+run_uuid: 41a23f5e4c4d452089bbcea89ba4657b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737648042845
+status: 3
+tags: []
+user_id: codespace

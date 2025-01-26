@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/52a6edd7d644417186be12a3d60904eb/artifacts
+end_time: 1737872791803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52a6edd7d644417186be12a3d60904eb
+run_name: invincible-quail-453
+run_uuid: 52a6edd7d644417186be12a3d60904eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737872788069
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops01-M3/app/mlruns/0/7178ee39fb434b48ac4df569ee9b3ac9/artifacts
+end_time: 1737647353119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7178ee39fb434b48ac4df569ee9b3ac9
+run_name: skillful-finch-888
+run_uuid: 7178ee39fb434b48ac4df569ee9b3ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737647349949
+status: 3
+tags: []
+user_id: codespace
