@@ -1,0 +1,4 @@
+[core]
+    remote = github
+['remote "github"']
+    url = ../enter
