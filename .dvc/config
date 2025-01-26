@@ -1,4 +1,4 @@
 [core]
-    remote = github
-['remote "storage"']
-    url = gdrive://1_lGEN7coJ8ftr32b0XABOp3E5xGjZt2L
+    remote = gdrive
+['remote "gdrive"']
+    url = ../1_lGEN7coJ8ftr32b0XABOp3E5xGjZt2L
