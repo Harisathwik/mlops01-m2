@@ -2,3 +2,5 @@
     remote = github
 ['remote "github"']
     url = https://github.com/Harisathwik/test_dvc
+['remote "storage"']
+    url = gdrive://1_lGEN7coJ8ftr32b0XABOp3E5xGjZt2L
