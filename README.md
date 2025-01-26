@@ -67,3 +67,29 @@ This project demonstrates the use of MLOps tools such as MLflow for experiment t
 
   		! git checkout HEAD^1 dataset/iris.csv.dvc
 
+#### Delieverables
+- Dashboard
+  ![image](https://github.com/user-attachments/assets/c8e13260-2303-468b-a17b-d90c21eb856d)
+- First run with max_depth 5 and n_estimators 50
+  ![image](https://github.com/user-attachments/assets/ed9ac21a-6092-4e42-9ad3-c76293f181a5)
+- Second run with max_depth 10 and n_estimators 100
+  ![image](https://github.com/user-attachments/assets/94185b68-7f1a-4c69-9161-2fde7218510a)
+- Third run with max_depth None and n_estimators 150
+  ![image](https://github.com/user-attachments/assets/5fd473b2-0b9c-4208-b1c5-e5c6fdfce7e6)
+
+- DVC Remote Storage with different versions on google drive
+- Modified version of the dataset
+  ![image](https://github.com/user-attachments/assets/849973d2-022a-4ca6-9c43-de93135c9187)
+
+- Original Unmodified verison of the data
+  ![image](https://github.com/user-attachments/assets/1c9fecc3-0b81-468a-8452-35b2abb80948)
+
+- Compare the hashes from the above with the below ones available of the file explorer inside of .dvc/cache/
+  ![image](https://github.com/user-attachments/assets/3ec5ee9a-fdab-4573-a41b-5265df84c293)
+
+
+  
+
+
+
+
