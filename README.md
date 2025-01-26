@@ -43,7 +43,7 @@ This project demonstrates the use of MLOps tools such as MLflow for experiment t
   - `dvc`
  
 #### Hyperparameter Configs
-- Parameters used as:
+- Parameters used for the sklearn model are:
   - `n_estimators` as 50, 100, 150
   - `max_depth` as 5, 10, None
  
@@ -55,3 +55,13 @@ This project demonstrates the use of MLOps tools such as MLflow for experiment t
 #### Prerequisities
 - Configured **Google Drive** as the remote storage with this [link](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive) as reference.
 - Configure **git** as well.
+
+#### Data Modification
+- Dataset is modified by making duplicates and a new version has been pushed to the remote storage.
+
+  		! cp dataset/iris.csv /tmp/iris.csv
+		! cat /tmp/iris.csv >> dataset/iris.csv
+
+#### Restore to previous version
+		! git checkout HEAD^1 dataset/iris.csv.dvc
+
