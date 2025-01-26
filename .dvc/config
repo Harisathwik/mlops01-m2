@@ -1,4 +1,4 @@
 [core]
     remote = github
 ['remote "github"']
-    url = ../enter
+    url = https://github.com/Harisathwik/test_dvc
