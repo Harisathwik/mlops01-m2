@@ -26,6 +26,7 @@ This project demonstrates the use of MLOps tools such as MLflow for experiment t
 ## Project Structure
 
 - model_tracking.py : contains the script for training the model on the iris dataset
+- dataset_dvc.ipynb : contains steps and commands for the ste-to-step implementation of DVC
 
 ---
 
